@@ -1,41 +1,38 @@
-Hi there, I'm Soe Thiri Khaing (Kuuki) 👋
-<p align="left">
-<img src="" alt="soeThiriKhaing" />
-</p>
-
-I am a Flutter Developer with over 2 years of experience in building cross-platform mobile applications. I graduated from UCSMTLA (University of Computer Studies, Meiktila) in 2023. I am passionate about clean code, smooth UI, and continuous learning.
-
-🚀 Professional Journey
-Current: Flutter Developer at UMG Myanmar 🏢
-
-Previous: 1 Year as a Flutter Developer (Full-time)
-
-Internship: 3-Month Internship at ITVisionHub 💻
-
-Education: B.C.Sc from UCSMTLA (Class of 2023) 🎓
-
-🛠️ Tech Stack & Skills
-Mobile: Flutter | Dart (Specialized in Cross-platform Apps)
-
-State Management: Provider | BLoC | Riverpod
-
-Backend & Tools: Firebase | REST APIs | Git | SQLite | Hive
-
-Languages: - 🇲🇲 Burmese (Native)
-
-🇺🇸 English (Professional Working Proficiency)
-
-🇯🇵 Japanese (Active Learner - N4/N3 Level) 📖
-
-📊 GitHub Activity & Stats
+<img src="" width="30px"> Hi, I'm Soe Thiri Khaing (Kuuki)
 <p align="center">
-<img src="" alt="Soe Thiri Khaing's Stats" width="48%" />
-<img src="" alt="Top Languages" width="40%" />
+<img src="" alt="Typing SVG" />
 </p>
 
-📫 Connect with Me
-💼 LinkedIn: 
+💫 About Me
+I am a dedicated Flutter Developer with over 2 years of experience crafting high-quality mobile applications. Graduated from UCSMTLA in 2023, I thrive on building seamless user experiences and exploring new technologies.
 
-📧 Email: soethirikhaing.dev@gmail.com
+🔭 I’m currently working at UMG Myanmar
 
-"Turning coffee into code and dreams into apps." ✨
+🌱 I’m currently learning Japanese (N4/N3 Level)
+
+⚡ Fun fact: I love documenting my daily life through Vlogs!
+
+🛠️ Tech Stack
+<p align="left">
+<img src="" />
+<img src="" />
+<img src="" />
+<img src="" />
+<img src="" />
+</p>
+
+📈 GitHub Analytics
+<p align="center">
+<img src="" width="48%" />
+<img src="" width="40%" />
+</p>
+
+📫 Let's Connect!
+<p align="left">
+<a href="" target="blank"><img align="center" src="" alt="soe thiri khaing" height="30" width="40" /></a>
+<a href="mailto:soethirikhaing.dev@gmail.com"><img align="center" src="" alt="soethirikhaing.dev@gmail.com" height="30" width="40" /></a>
+</p>
+
+<p align="center">
+<i>"Code is like humor. When you have to explain it, it’s bad."</i>
+</p>
