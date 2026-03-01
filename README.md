@@ -33,7 +33,7 @@
       🌱 <b>Always learning</b> new technologies and Japanese language (N4/N3 Level).
     </td>
     <td width="40%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soeThiriKhaing&layout=compact&theme=tokyonight&border_radius=10" width="100%" />
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soeThiriKhaing&layout=compact&theme=tokyonight&border_radius=10" width="100%" />
     </td>
   </tr>
 </table>
