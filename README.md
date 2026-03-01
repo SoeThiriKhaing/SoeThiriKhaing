@@ -10,7 +10,7 @@
 
 <p align="center">
   <br/>
-  ✨ <b>"Code with clarity, Deliver with speed, Aim for excellence"</b> ✨
+  ✨ <b>"Crafting seamless digital experiences with Dart, driven by clean code and innovative thinking."</b> ✨
 </p>
 
 <div align="center">
