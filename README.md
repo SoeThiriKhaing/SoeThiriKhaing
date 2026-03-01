@@ -51,7 +51,7 @@
 ### 🛠️ Professional Toolbox
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,sqlite,git,figma,postman,vscode&perline=4" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,sqlite,git,figma,postman,vscode,html,js,c#,java&perline=4" />
 </p>
 
 ---
