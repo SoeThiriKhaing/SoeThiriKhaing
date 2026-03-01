@@ -15,7 +15,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:soethirikhaing.dev@gmail.com"><img src="https://img.shields.io/badge/EMAIL-LET'S%20TALK-D14836?style=for-the-badge&logo=gmail" /></a>
+  <a href="mailto:soethirikhaing846@gmail.com"><img src="https://img.shields.io/badge/EMAIL-LET'S%20TALK-D14836?style=for-the-badge&logo=gmail" /></a>
 </div>
 
 ---
