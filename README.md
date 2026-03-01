@@ -20,23 +20,39 @@
 
 ---
 
-### 🌸 About Me
+### 💠 Profile Overview
+
 <table border="0">
   <tr>
-    <td width="60%">
-      💜 <b>Passionate about</b> creating elegant mobile solutions for complex problems.
+    <td width="60%" valign="top">
+      <br/>
+      ✨ <b>Mission:</b> Crafting high-performance mobile experiences that bridge technology and human connection.
       <br/><br/>
-      🚀 <b>Specialized in</b> Flutter, State Management, and API Integration.
-      <br/>
-      🎯 <b>Focused on</b> clean architecture patterns and scalable systems.
-      <br/>
-      🌱 <b>Always learning</b> new technologies and Japanese language (N4/N3 Level).
+      💎 <b>Core Expertise:</b>
+      <ul>
+        <li>📱 <b>Flutter & Dart:</b> Developing robust cross-platform solutions.</li>
+        <li>🧩 <b>Architecture:</b> Implementing Clean Architecture & SOLID principles.</li>
+        <li>⚙️ <b>State Flow:</b> Expert in BLoC, Provider, and Riverpod.</li>
+      </ul>
+      📖 <b>Current Focus:</b>
+      <ul>
+        <li>🇯🇵 Mastering **Japanese** to expand global career opportunities.</li>
+        <li>🛠️ Exploring **Advanced Animations** and Desktop Embedding.</li>
+      </ul>
     </td>
-    <td width="40%" align="center">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soeThiriKhaing&layout=compact&theme=tokyonight&border_radius=10" width="100%" />
+    <td width="40%" align="center" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soeThiriKhaing&layout=compact&theme=vision-friendly-dark&border_radius=20&langs_count=6" width="100%" />
     </td>
   </tr>
 </table>
+
+---
+
+### 🛠️ Professional Toolbox
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,sqlite,git,figma,postman,vscode&perline=4" />
+</p>
 
 ---
 
