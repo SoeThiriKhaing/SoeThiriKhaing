@@ -84,6 +84,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/PROVIDER-02569B?style=for-the-badge&logo=flutter" />
   <img src="https://img.shields.io/badge/BLOC-59B7FF?style=for-the-badge&logo=flutter" />
+  <img src="https://img.shields.io/badge/GETIT-2E7D32?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
