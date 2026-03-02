@@ -40,8 +40,8 @@
         <li>🛠️ Exploring **Advanced Animations** and Desktop Embedding.</li>
       </ul>
     </td>
-    <td width="40%" align="center" valign="middle">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soeThiriKhaing&layout=compact&theme=vision-friendly-dark&border_radius=20&langs_count=6&hide_owner=true" width="100%" />
+   <td width="40%" align="center" valign="middle">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=soeThiriKhaing&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="100%" />
 </td>
   </tr>
 </table>
