@@ -41,7 +41,7 @@
       </ul>
     </td>
 <td width="40%" align="center" valign="middle">
-  <img src="https://github-readme-stats-tau-seven.vercel.app/api/top-langs/?username=SoeThiriKhaing&layout=compact&theme=tokyonight&border_radius=10&langs_count=6&count_private=true" width="100%" alt="Top Languages" />
+  <img src="https://i.ibb.co/S7m0pS9P/coding-girl.webp" width="100%" alt="Coding Girl" />
 </td>
   </tr>
 </table>
