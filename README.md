@@ -100,8 +100,9 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soeThiriKhaing&show_icons=true&theme=tokyonight&border_radius=10&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soeThiriKhaing&theme=tokyonight&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats-tau-seven.vercel.app/api?username=soeThiriKhaing&show_icons=true&theme=tokyonight&border_radius=10&count_private=true" width="48%" />
+  
+  <img src="https://github-readme-streak-stats-three.vercel.app/?user=soeThiriKhaing&theme=tokyonight&border_radius=10" width="48%" />
 </p>
 
 ---
