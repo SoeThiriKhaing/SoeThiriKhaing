@@ -104,7 +104,7 @@
 <p align="center">
   <img src="https://github-readme-stats-tau-seven.vercel.app/api?username=soeThiriKhaing&show_icons=true&theme=tokyonight&border_radius=10&count_private=true" width="48%" />
   
-  <img src="https://github-readme-stats-tau-seven.vercel.app/api/top-langs/?username=soeThiriKhaing&layout=compact&theme=tokyonight&border_radius=10&langs_count=6" width="48%" />
+  <img src="https://github-readme-streak-stats-re-alpha.vercel.app/?user=soeThiriKhaing&theme=tokyonight&border_radius=10" width="48%" />
 </p>
 
 ---
