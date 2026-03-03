@@ -112,5 +112,7 @@
 
 <p align="center">
   <br/>
-  <img src="https://raw.githubusercontent.com/maman/maman/master/svg/Music.svg" width="20"> <i>Currently focusing on Flutter Excellence & Japanese Language...</i>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="25"> 
+  
+  <i>Currently focusing on Flutter Excellence & Japanese Language...</i>
 </p>
