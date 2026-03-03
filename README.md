@@ -41,7 +41,7 @@
       </ul>
     </td>
 <td width="40%" align="center" valign="middle">
-  <img src="https://i.ibb.co/S7m0pS9P/coding-girl.webp" width="100%" alt="Coding Girl" />
+  <img src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-4358.jpg" width="100%" alt="Hacker Girl" />
 </td>
   </tr>
 </table>
